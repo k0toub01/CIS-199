@@ -1,0 +1,13 @@
+J:\CIS 199\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.exe
+J:\CIS 199\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.deps.json
+J:\CIS 199\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.runtimeconfig.json
+J:\CIS 199\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.runtimeconfig.dev.json
+J:\CIS 199\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.dll
+J:\CIS 199\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.pdb
+J:\CIS 199\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.csprojAssemblyReference.cache
+J:\CIS 199\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.AssemblyInfoInputs.cache
+J:\CIS 199\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.AssemblyInfo.cs
+J:\CIS 199\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.csproj.CoreCompileInputs.cache
+J:\CIS 199\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.dll
+J:\CIS 199\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.pdb
+J:\CIS 199\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.genruntimeconfig.cache
